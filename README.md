@@ -1,4 +1,6 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+# NAME : THARUN V K
+# REG NO : 212223230231
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
@@ -78,7 +80,7 @@ int main() {
 ```
 # OUTPUT
 
-![Screenshot 2025-04-17 141948](https://github.com/user-attachments/assets/9d837cd5-9585-416e-a260-e4f189dfc6d6)
+![image](https://github.com/user-attachments/assets/649bb843-c845-429a-866f-ddd6bbec710e)
 
 
 # RESULT
