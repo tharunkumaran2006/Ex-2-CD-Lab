@@ -1,6 +1,5 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-# NAME : THARUN V K
-# REG NO : 212223230231
+# DATE : 24/04/2025
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
@@ -34,6 +33,8 @@
 7.	Compile that file with C compiler and verify the output.
 
 # PROGRAM
+### DEVELOPED BY : THARUN V K
+### REG NO : 212223230231
 ```c
 #include <stdio.h>
 #include <ctype.h>
